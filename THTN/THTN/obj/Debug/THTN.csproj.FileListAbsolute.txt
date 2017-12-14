@@ -1,0 +1,12 @@
+E:\TH dotNet\PracticeForFinalExam\THTN\THTN\bin\Debug\THTN.exe.config
+E:\TH dotNet\PracticeForFinalExam\THTN\THTN\bin\Debug\THTN.exe
+E:\TH dotNet\PracticeForFinalExam\THTN\THTN\bin\Debug\THTN.pdb
+E:\TH dotNet\PracticeForFinalExam\THTN\THTN\obj\Debug\THTN.csprojResolveAssemblyReference.cache
+E:\TH dotNet\PracticeForFinalExam\THTN\THTN\obj\Debug\THTN.Properties.Resources.resources
+E:\TH dotNet\PracticeForFinalExam\THTN\THTN\obj\Debug\THTN.csproj.GenerateResource.Cache
+E:\TH dotNet\PracticeForFinalExam\THTN\THTN\obj\Debug\THTN.exe
+E:\TH dotNet\PracticeForFinalExam\THTN\THTN\obj\Debug\THTN.pdb
+E:\TH dotNet\PracticeForFinalExam\THTN\THTN\obj\Debug\THTN.Bai1.resources
+E:\TH dotNet\PracticeForFinalExam\THTN\THTN\obj\Debug\THTN.DangNhap.resources
+E:\TH dotNet\PracticeForFinalExam\THTN\THTN\obj\Debug\THTN.frmLoaiNhanVien.resources
+E:\TH dotNet\PracticeForFinalExam\THTN\THTN\obj\Debug\THTN.HeThong.resources

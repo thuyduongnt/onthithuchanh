@@ -1,0 +1,8 @@
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamQuestion1\bin\Debug\FinalExamQuestion1.exe.config
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamQuestion1\bin\Debug\FinalExamQuestion1.exe
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamQuestion1\bin\Debug\FinalExamQuestion1.pdb
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamQuestion1\obj\Debug\FinalExamQuestion1.Form1.resources
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamQuestion1\obj\Debug\FinalExamQuestion1.Properties.Resources.resources
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamQuestion1\obj\Debug\FinalExamQuestion1.csproj.GenerateResource.Cache
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamQuestion1\obj\Debug\FinalExamQuestion1.exe
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamQuestion1\obj\Debug\FinalExamQuestion1.pdb

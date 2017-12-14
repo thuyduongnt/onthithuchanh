@@ -1,0 +1,10 @@
+﻿bool: true/false
+char: 1 ký tự;
+int: số nguyên
+float: số thập phân
+string: chuỗi
+
+BTVN:
+số nguyên tố
+số chính phương
+sao sao

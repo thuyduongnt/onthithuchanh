@@ -1,0 +1,13 @@
+D:\Hoc Tap\OntapthuchanhTN\CongViec\CongViec\bin\Debug\CongViec.exe.config
+D:\Hoc Tap\OntapthuchanhTN\CongViec\CongViec\bin\Debug\CongViec.exe
+D:\Hoc Tap\OntapthuchanhTN\CongViec\CongViec\bin\Debug\CongViec.pdb
+D:\Hoc Tap\OntapthuchanhTN\CongViec\CongViec\obj\Debug\CongViec.csprojResolveAssemblyReference.cache
+D:\Hoc Tap\OntapthuchanhTN\CongViec\CongViec\obj\Debug\CongViec.DangNhap.resources
+D:\Hoc Tap\OntapthuchanhTN\CongViec\CongViec\obj\Debug\CongViec.Form1.resources
+D:\Hoc Tap\OntapthuchanhTN\CongViec\CongViec\obj\Debug\CongViec.Hethong.resources
+D:\Hoc Tap\OntapthuchanhTN\CongViec\CongViec\obj\Debug\CongViec.Properties.Resources.resources
+D:\Hoc Tap\OntapthuchanhTN\CongViec\CongViec\obj\Debug\CongViec.csproj.GenerateResource.Cache
+D:\Hoc Tap\OntapthuchanhTN\CongViec\CongViec\obj\Debug\CongViec.exe
+D:\Hoc Tap\OntapthuchanhTN\CongViec\CongViec\obj\Debug\CongViec.pdb
+D:\Hoc Tap\OntapthuchanhTN\CongViec\CongViec\obj\Debug\CongViec.LoaiCongViec.resources
+D:\Hoc Tap\OntapthuchanhTN\CongViec\CongViec\obj\Debug\CongViec.CongViec.resources

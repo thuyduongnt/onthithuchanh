@@ -1,0 +1,19 @@
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\bin\Debug\THTN.exe.config
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\bin\Debug\THTN.exe
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\bin\Debug\THTN.pdb
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\obj\Debug\THTN.csprojResolveAssemblyReference.cache
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\obj\Debug\THTN.Properties.Resources.resources
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\obj\Debug\THTN.csproj.GenerateResource.Cache
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\obj\Debug\THTN.exe
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\obj\Debug\THTN.pdb
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\obj\Debug\THTN.Bai1.resources
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\obj\Debug\THTN.DangNhap.resources
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\obj\Debug\THTN.HeThong.resources
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\obj\Debug\THTN.frmLoaiNhanVien.resources
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\obj\Debug\THTN.frmLuong.resources
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\obj\Debug\THTN.frmThongKe.resources
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\obj\Debug\RdlCompile.cache
+C:\Users\bienphongvnn\Desktop\D8CNPM\THTN\THTN\obj\Debug\RdlCompile.compiled
+E:\TH dotNet\PracticeForFinalExam\D8CNPM\THTN\THTN\bin\Debug\THTN.exe.config
+E:\TH dotNet\PracticeForFinalExam\D8CNPM\THTN\THTN\obj\Debug\THTN.exe
+E:\TH dotNet\PracticeForFinalExam\D8CNPM\THTN\THTN\obj\Debug\THTN.pdb

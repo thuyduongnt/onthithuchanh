@@ -1,0 +1,15 @@
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamThree2\bin\Debug\FinalExamThree2.exe.config
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamThree2\bin\Debug\FinalExamThree2.exe
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamThree2\bin\Debug\FinalExamThree2.pdb
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamThree2\obj\Debug\FinalExamThree2.csprojResolveAssemblyReference.cache
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamThree2\obj\Debug\FinalExamThree2.DangNhap.resources
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamThree2\obj\Debug\FinalExamThree2.Properties.Resources.resources
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamThree2\obj\Debug\FinalExamThree2.csproj.GenerateResource.Cache
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamThree2\obj\Debug\FinalExamThree2.exe
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamThree2\obj\Debug\FinalExamThree2.pdb
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamThree2\obj\Debug\FinalExamThree2.HeThong.resources
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamThree2\obj\Debug\FinalExamThree2.LoaiPhong.resources
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamThree2\obj\Debug\FinalExamThree2.PhongMay.resources
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamThree2\obj\Debug\FinalExamThree2.ThongKe.resources
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamThree2\obj\Debug\RdlCompile.cache
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\FinalExamThree2\obj\Debug\RdlCompile.compiled

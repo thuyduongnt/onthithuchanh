@@ -1,0 +1,9 @@
+D:\Hoc Tap\OntapthuchanhTN\ontap01\ontap01\bin\Debug\ontap01.exe.config
+D:\Hoc Tap\OntapthuchanhTN\ontap01\ontap01\bin\Debug\ontap01.exe
+D:\Hoc Tap\OntapthuchanhTN\ontap01\ontap01\bin\Debug\ontap01.pdb
+D:\Hoc Tap\OntapthuchanhTN\ontap01\ontap01\obj\Debug\ontap01.csprojResolveAssemblyReference.cache
+D:\Hoc Tap\OntapthuchanhTN\ontap01\ontap01\obj\Debug\ontap01.Form1.resources
+D:\Hoc Tap\OntapthuchanhTN\ontap01\ontap01\obj\Debug\ontap01.Properties.Resources.resources
+D:\Hoc Tap\OntapthuchanhTN\ontap01\ontap01\obj\Debug\ontap01.csproj.GenerateResource.Cache
+D:\Hoc Tap\OntapthuchanhTN\ontap01\ontap01\obj\Debug\ontap01.exe
+D:\Hoc Tap\OntapthuchanhTN\ontap01\ontap01\obj\Debug\ontap01.pdb

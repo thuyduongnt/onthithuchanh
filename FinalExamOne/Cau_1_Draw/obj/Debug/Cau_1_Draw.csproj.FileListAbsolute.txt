@@ -1,0 +1,9 @@
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\Cau_1_Draw\bin\Debug\Cau_1_Draw.exe.config
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\Cau_1_Draw\bin\Debug\Cau_1_Draw.exe
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\Cau_1_Draw\bin\Debug\Cau_1_Draw.pdb
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\Cau_1_Draw\obj\Debug\Cau_1_Draw.csprojResolveAssemblyReference.cache
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\Cau_1_Draw\obj\Debug\Cau_1_Draw.Form1.resources
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\Cau_1_Draw\obj\Debug\Cau_1_Draw.Properties.Resources.resources
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\Cau_1_Draw\obj\Debug\Cau_1_Draw.csproj.GenerateResource.Cache
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\Cau_1_Draw\obj\Debug\Cau_1_Draw.exe
+E:\TH dotNet\PracticeForFinalExam\FinalExamOne\Cau_1_Draw\obj\Debug\Cau_1_Draw.pdb

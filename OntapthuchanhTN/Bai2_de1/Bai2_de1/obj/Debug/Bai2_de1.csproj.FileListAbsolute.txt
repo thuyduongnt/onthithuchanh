@@ -1,0 +1,9 @@
+D:\Hoc Tap\OntapthuchanhTN\Bai2_de1\Bai2_de1\bin\Debug\Bai2_de1.exe.config
+D:\Hoc Tap\OntapthuchanhTN\Bai2_de1\Bai2_de1\bin\Debug\Bai2_de1.exe
+D:\Hoc Tap\OntapthuchanhTN\Bai2_de1\Bai2_de1\bin\Debug\Bai2_de1.pdb
+D:\Hoc Tap\OntapthuchanhTN\Bai2_de1\Bai2_de1\obj\Debug\Bai2_de1.csprojResolveAssemblyReference.cache
+D:\Hoc Tap\OntapthuchanhTN\Bai2_de1\Bai2_de1\obj\Debug\Bai2_de1.Login.resources
+D:\Hoc Tap\OntapthuchanhTN\Bai2_de1\Bai2_de1\obj\Debug\Bai2_de1.Properties.Resources.resources
+D:\Hoc Tap\OntapthuchanhTN\Bai2_de1\Bai2_de1\obj\Debug\Bai2_de1.csproj.GenerateResource.Cache
+D:\Hoc Tap\OntapthuchanhTN\Bai2_de1\Bai2_de1\obj\Debug\Bai2_de1.exe
+D:\Hoc Tap\OntapthuchanhTN\Bai2_de1\Bai2_de1\obj\Debug\Bai2_de1.pdb
